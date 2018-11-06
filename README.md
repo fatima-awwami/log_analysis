@@ -55,4 +55,4 @@ python --version
 
 Code output:
 -------------
-the program output will be a simple text
+the program output will be a simple text displayed in the terminal
